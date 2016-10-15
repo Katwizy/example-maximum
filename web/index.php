@@ -1,0 +1,1 @@
+../vendor/potherca/katwizy/web/index.php

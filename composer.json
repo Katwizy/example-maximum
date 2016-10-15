@@ -1,0 +1,21 @@
+{
+    "name": "potherca/katwizy-example",
+    "description": "🌟 Example implementation using Katwizy. 🏁🚗💨",
+    "type": "project",
+    "license": "GPL-3.0+",
+    "minimum-stability": "stable",
+    "require": {
+        "potherca/katwizy": "dev-master as 0.1.0"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../katwizy"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Potherca\\Katwizy\\Example\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,5 @@
+
+katwizy.random_number:
+    resource: "Potherca\\Katwizy\\Example\\Controller\\RandomNumberController"
+    prefix:   /api
+    type:     annotation

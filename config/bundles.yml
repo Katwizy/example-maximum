@@ -1,0 +1,9 @@
+prod:
+
+test:
+    # Test specific bundles
+dev:
+    - \Sensio\Bundle\GeneratorBundle\SensioGeneratorBundle
+    - Foo
+disable:
+    # Default bundles to disable
